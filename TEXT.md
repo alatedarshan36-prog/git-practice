@@ -1,2 +1,1 @@
-Hello GIT
-This is my first work
+This is second line
